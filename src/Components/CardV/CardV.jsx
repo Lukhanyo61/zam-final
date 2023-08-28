@@ -15,7 +15,7 @@ export default function CardV() {
     <MDBCard className='CardV' style={{ maxWidth: '1240px'  }}>
       <MDBRow id='CardV' className='g-0'>
         <MDBCol md='4'>
-          <MDBCardImage src='https://zamfoundation.co.za/wp-content/uploads/2021/03/Congra.jpg' alt='...' fluid />
+          <MDBCardImage src='https://scontent-cpt1-1.xx.fbcdn.net/v/t39.30808-6/357134126_578184377852140_3371118207222525247_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=MYNiCNSTf_8AX8qLkFt&_nc_ht=scontent-cpt1-1.xx&oh=00_AfBgiqNiF1JXSPDk3q8I8F8sInMz1fyhhu0iUYVUZoW9QA&oe=64F15FC2' alt='...' fluid />
         </MDBCol>
         <MDBCol md='8'>
           <MDBCardBody id='cBody'>

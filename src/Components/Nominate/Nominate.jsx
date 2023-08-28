@@ -13,7 +13,7 @@ function Nominate() {
    <section class="banner" >
   <h1 id="Nh1" class="text-center" >Get nominate as a beneficiary</h1>
 
-<div id="nominate" class="container">
+<div style={{marginTop:"-10px"}} id="nominate" class="container">
  
   <form>
     <h5 id="Nh5" class="text-center" >Fill in the form to be our next beneficiary</h5>

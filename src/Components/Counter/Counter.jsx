@@ -13,28 +13,28 @@ export default function Counter() {
 		<div class="counter-box colored">
 		
 			<span class="counter">2147</span>
-			<p>Happy Customers</p>
+			<p>No. assisted for learners</p>
 		</div>
 	</div>
 	<div class="four col-md-3">
 		<div class="counter-box">
 			
 			<span class="counter">3275</span>
-			<p>Registered Members</p>
+			<p>No. who passed learners</p>
 		</div>
 	</div>
 	<div class="four col-md-3">
 		<div class="counter-box">
 		
 			<span class="counter">289</span>
-			<p>Available Products</p>
+			<p>No. assistes for drivers</p>
 		</div>
 	</div>
 	<div  class="four col-md-3">
 		<div  class="counter-box">
 			
 			<span class="counter">1563</span>
-			<p>Saved Trees</p>
+			<p>No. who passed drivers</p>
 		</div>
 	</div>
   </div>	
