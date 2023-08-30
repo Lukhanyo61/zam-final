@@ -12,8 +12,9 @@ function Home() {
   return (
     <div>
    
-    <MDBCarousel showIndicators showControls fade>
-    <MDBCarouselItem
+    <MDBCarousel id='slide1'   showIndicators showControls fade>
+    <MDBCarouselItem 
+     
       className='w-100 d-block'
       itemId={1}
       src='http://zamfoundation.co.za/wp-content/uploads/2021/05/Zam-header-main.jpg'

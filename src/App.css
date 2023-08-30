@@ -557,3 +557,9 @@ input {
 #nav-i{
   position: relative; left: 20px;
 }
+
+@media screen and (max-width: 320px) {
+  #slide1 {
+    height: 200px;
+  }
+}
