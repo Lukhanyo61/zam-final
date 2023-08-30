@@ -3,7 +3,7 @@ import React from "react";
 
 import Footer from '../Components/Footer/Footer';
 
-
+import companyLogo from '../Components/Images/logo.png';
   
 function Contact() {
    
@@ -14,7 +14,7 @@ function Contact() {
 
   <div class="container contact-form">
     <div class="contact-image">
-   
+    <img style={{width:"100px"}} id="rotate" src={companyLogo} alt="BigCo Inc. logo"/>
     </div>
     <form method="post">
         <h3>Drop Us a Message</h3>

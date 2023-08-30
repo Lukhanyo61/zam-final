@@ -539,6 +539,7 @@ button {
 
 #rotate {
   animation: rotation 8s infinite linear;
+
 }
 
 @keyframes rotation {
